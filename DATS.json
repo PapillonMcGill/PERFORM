@@ -87,18 +87,29 @@
 		{
 			"category": "files",
 			"values": [
-               			{
+               	{
 					"value": "34"
 				}
-          		]
-      		},
-      		{
-          		"category": "subjects",
-          		"values": [
-              			{
-                  			"value": "1"
-				}
-          		]
-      		}
+          	]
+      	},
+      	{
+       		"category": "subjects",
+       		"values": [
+           		{
+                    "value": "1"
+			    }
+          	]
+      	},
+        {
+            "category": "origin",
+            "values": [
+                {
+                    "institution": "Concordia University PERFORM Center",
+                    "city": "Montreal",
+                    "province": "Quebec",
+                    "country": "Canada"
+                }
+            ]
+        }
 	]
 }
