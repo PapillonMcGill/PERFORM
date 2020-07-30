@@ -93,13 +93,13 @@
           	]
       	},
       	{
-       		"category": "subjects",
-       		"values": [
-           		{
+       	    "category": "subjects",
+       	    "values": [
+                {
                     "value": "1"
-			    }
-          	]
-      	},
+                }
+            ]
+        },
         {
             "category": "origin",
             "values": [
